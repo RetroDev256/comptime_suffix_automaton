@@ -1,7 +1,7 @@
 # comptime suffix automaton
 
 ### What is it?
-It is the https://en.wikipedia.org/wiki/Suffix_automaton algorithm, but it traverses the suffix automaton graph for all possible inputs at compile-time for optimal machine code.
+It is [this algorithm](https://en.wikipedia.org/wiki/Suffix_automaton), but it traverses the suffix automaton graph for all possible inputs at compile-time for optimal machine code.
 
 ### How do I use it?
 See the root.zig tests for usage
