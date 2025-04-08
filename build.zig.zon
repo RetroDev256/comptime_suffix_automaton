@@ -1,0 +1,12 @@
+.{
+    .name = .suffix_automaton,
+    .version = "0.0.0",
+    .fingerprint = 0xfb404aea88f2c762,
+    .minimum_zig_version = "0.15.0-dev.208+8acedfd5b",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
